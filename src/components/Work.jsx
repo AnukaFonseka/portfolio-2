@@ -11,20 +11,13 @@ const experiences = [
   },
   {
     id: 2,
-    title: "Frontend Developer",
-    company: "Creative Solutions",
-    duration: "Jun 2020 - Dec 2021",
+    title: "Software Engineer - Intern",
+    company: "Escarta Pvt. ltd",
+    duration: "May 2022 - Aug 2022",
     description:
-      "Built responsive user interfaces with React and Tailwind CSS, ensuring seamless user experiences across devices.",
+      "Interned as a Software Engineer for 3 months, focusing on developing simulation processes for an army tank simulator project using Unity. Gained hands-on experience in Unity software.",
   },
-  {
-    id: 3,
-    title: "Intern - Full Stack Developer",
-    company: "Startup Hub",
-    duration: "Jan 2020 - May 2020",
-    description:
-      "Assisted in developing end-to-end web solutions, focusing on backend APIs and frontend designs.",
-  },
+
 ];
 
 export default function Work() {
