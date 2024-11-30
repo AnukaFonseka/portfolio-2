@@ -11,7 +11,7 @@ const experiences = [
   },
   {
     id: 2,
-    title: "Software Engineer - Intern",
+    title: "Software Engineer, Intern",
     company: "Escarta Pvt. ltd",
     duration: "May 2022 - Aug 2022",
     description:
