@@ -3,11 +3,11 @@ import React from "react";
 const experiences = [
   {
     id: 1,
-    title: "Software Engineer",
-    company: "Tech Innovators Inc.",
-    duration: "Jan 2022 - Present",
+    title: "Software Engineer, Intern",
+    company: "Amerck Inc. StratfordAve, Colombo.",
+    duration: "Aug 2023 - Oct 2023",
     description:
-      "Developing and maintaining scalable web applications, collaborating with cross-functional teams to deliver innovative solutions.",
+      "Interned as a Frontend Developer. Developed user interfaces for web applications using React, Redux, RTK Query, and Tailwind CSS. Collaborated on UI/UX design and prototyping using Figma and Miro. Participated in agile development processes using Jira and Confluence. Managed version control and CI/CD workflows through GitLab."
   },
   {
     id: 2,
