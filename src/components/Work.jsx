@@ -7,7 +7,7 @@ const experiences = [
     company: "Amerck Inc. StratfordAve, Colombo.",
     duration: "Aug 2023 - Oct 2023",
     description:
-      "Interned as a Frontend Developer. Developed user interfaces for web applications using React, Redux, RTK Query, and Tailwind CSS. Collaborated on UI/UX design and prototyping using Figma and Miro. Participated in agile development processes using Jira and Confluence. Managed version control and CI/CD workflows through GitLab."
+      "Interned as a Backend Developer. Developed REST APIs using Node.js, Express, and Sequelize. Conducted API testing using Insomnia, ensuring functionality and reliability. Worked within an Agile development environment, utilizing Jira and Confluence for task management and team collaboration."
   },
   {
     id: 2,
