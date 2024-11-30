@@ -2,12 +2,12 @@
     {
       "id": 1,
       "name": "Book Reccommender App",
-      "description": "A modern portfolio website built with React and Tailwind CSS.",
+      "description": "AI enhanced book reccommendation web application.",
       "techStack": ["React", "Tailwind CSS", "JavaScript"],
       "keyFeatures": [
         "Fully responsive design that adapts to all screen sizes and devices.",
         "Custom UI components for a unique and professional look.",
-        "SEO optimization to ensure the site ranks well in search engines."
+        "AI Machine learning models for content bsed and collaborative filtering to give more accurate reccomendations."
       ],
       "images": [
         "p11",
@@ -19,8 +19,8 @@
     {
       "id": 2,
       "name": "Book Seller Platform",
-      "description": "A scalable e-commerce platform featuring secure payment integration.",
-      "techStack": ["React", "Node.js", "MongoDB", "Stripe"],
+      "description": "A platform to explore, review, and rate books effortlessly online.",
+      "techStack": ["React", "Node.js", "MongoDB", "TailwindCSS"],
       "keyFeatures": [
         "Secure payment gateway integration using Stripe for easy and safe transactions.",
         "User authentication system for secure logins and account management.",
@@ -40,8 +40,8 @@
       "description": "A full-stack social media application with real-time chat and posts.",
       "techStack": ["React", "Node.js", "WebSocket", "MongoDB"],
       "keyFeatures": [
-        "Real-time chat system allowing users to communicate instantly.",
-        "User profiles where members can share personal information and photos.",
+        "Fully responsive website",
+        "Animations",
         "Post sharing, commenting, and liking features to increase user engagement."
       ],
       "images": [
