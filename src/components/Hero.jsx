@@ -23,9 +23,7 @@ export default function Hero() {
           />
         </div>
         <p className="text-gray-600 text-base md:text-lg">
-          I use animation as a third dimension by which to simplify experiences
-          and guide through each and every interaction. I’m not adding motion
-          just to spruce things up, but doing it in ways that matter.
+        A driven tech enthusiast with a passion for backend development, RESTful APIs, and full-stack solutions. With experience in cutting-edge technologies and a knack for problem-solving, I create efficient and user-centric applications.
         </p>
         {/* Buttons */}
         <div className="flex flex-col md:flex-row md:justify-between items-center md:items-start space-y-10 md:space-y-0">
