@@ -96,8 +96,8 @@
         "p56"
 
       ],
-      "githubFrontend": "https://github.com/your-frontend-repo",
-      "githubBackend": "https://github.com/your-backend-repo"
+      "githubFrontend": "https://github.com/sewwwandifernando/Medisense-FE",
+      "githubBackend": "https://github.com/sewwwandifernando/Medisense-BE"
     },
     {
       "id": 6,
@@ -123,7 +123,7 @@
         "p61",
         "p62"
       ],
-      "githubFrontend": "https://github.com/your-frontend-repo",
+      "githubFrontend": "https://github.com/sewwwandifernando/Weddings-By-Sonali-FE",
       "githubBackend": "https://github.com/your-backend-repo"
     }
   ]

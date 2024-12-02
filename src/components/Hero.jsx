@@ -39,7 +39,7 @@ export default function Hero() {
                 <i className="fab fa-linkedin-in text-2xl md:text-3xl"></i>
               </a>
               <a
-                href="https://github.com/yourgithubprofile"
+                href="https://github.com/sewwwandifernando"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white w-16 h-16 md:w-20 md:h-20 flex items-center justify-center rounded shadow-lg hover:bg-pnk hover:text-white hover:scale-105 transition-transform duration-300"
@@ -47,7 +47,7 @@ export default function Hero() {
                 <i className="fab fa-github text-2xl md:text-3xl"></i>
               </a>
               <a
-                href="https://www.instagram.com/yourinstagramprofile/"
+                href="https://www.instagram.com/sewwandinirushika/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white w-16 h-16 md:w-20 md:h-20 flex items-center justify-center rounded shadow-lg hover:bg-pnk hover:text-white hover:scale-105 transition-transform duration-300"
