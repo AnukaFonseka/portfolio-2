@@ -9,7 +9,7 @@ export default function Footer() {
   };
 
   return (
-    <footer id="contact" className="bg-black text-white py-10">
+    <section id="contact" className="bg-black text-white py-10">
       <div className="container mx-auto px-6 lg:px-20">
         {/* Top Section */}
         <div className="flex flex-col md:flex-row justify-between items-center md:items-start space-y-10 md:space-y-0">
@@ -74,7 +74,7 @@ export default function Footer() {
                 <i className="fab fa-linkedin"></i>
               </a>
               <a
-                href="https://github.com/yourgithubprofile"
+                href="https://github.com/sewwwandifernando"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-pnk text-2xl transition-all"
@@ -97,11 +97,11 @@ export default function Footer() {
             <h3 className="text-xl font-semibold">Contact Me</h3>
             <div>
               <p className="text-gray-400 hover:text-pnk transition-all">
-                <i className="fas fa-phone-alt text-pnk"></i> +94 77 123 4567
+                <i className="fas fa-phone-alt text-pnk"></i> +94 76 105 9191
               </p>
               <p className="text-gray-400 hover:text-pnk transition-all">
                 <i className="fas fa-envelope text-pnk"></i>{" "}
-                sewwandi.fernando@email.com
+                sewwandinirushika7@gmail.com
               </p>
             </div>
           </div>
@@ -114,6 +114,6 @@ export default function Footer() {
           </p>
         </div>
       </div>
-    </footer>
+    </section>
   );
 }

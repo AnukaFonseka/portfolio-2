@@ -3,63 +3,71 @@
       "id": 1,
       "name": "Book Reccommender App",
       "description": "AI enhanced book reccommendation web application.",
-      "techStack": ["React", "Tailwind CSS", "JavaScript"],
+      "techStack": ["Python", " Jupyter Notebook", "Flask",  "React", "TailwindCSS", "Javascript"],
       "keyFeatures": [
+        "AI Machine learning models for content bsed and collaborative filtering to give more accurate reccomendations.",
         "Fully responsive design that adapts to all screen sizes and devices.",
-        "Custom UI components for a unique and professional look.",
-        "AI Machine learning models for content bsed and collaborative filtering to give more accurate reccomendations."
+        "Custom UI components for a unique and professional look."
+        
       ],
       "images": [
         "p11",
         "p12"
       ],
-      "githubFrontend": "https://github.com/your-frontend-repo",
-      "githubBackend": "https://github.com/your-backend-repo"
+      "githubFrontend": "https://github.com/sewwwandifernando/Book-Recommender-App",
+      "githubBackend": "https://github.com/sewwwandifernando/Book-Recommender-App"
     },
     {
       "id": 2,
       "name": "Book Seller Platform",
       "description": "A platform to explore, review, and rate books effortlessly online.",
-      "techStack": ["React", "Node.js", "MongoDB", "TailwindCSS"],
+      "techStack": ["React", "Node.js", "MySQL", "TailwindCSS"],
       "keyFeatures": [
-        "Secure payment gateway integration using Stripe for easy and safe transactions.",
+        "Browse, search, and filter books by categories or titles.",
         "User authentication system for secure logins and account management.",
-        "Admin panel for managing products, orders, and user accounts."
+        "Submit, edit, and delete reviews with dynamic average ratings.",
+        "Manage books and moderate user-generated reviews.",
+        "RESTful APIs secured with JWT for authenticated data operations.",
+        "User-friendly interface optimized for all devices."
       ],
       "images": [
         "p21",
         "p22",
         "p23"
       ],
-      "githubFrontend": "https://github.com/your-frontend-repo",
-      "githubBackend": "https://github.com/your-backend-repo"
+      "githubFrontend": "https://github.com/sewwwandifernando/Book-Review-App-FE",
+      "githubBackend": "https://github.com/sewwwandifernando/Book-Review-App-BE"
     },
     {
       "id": 3,
       "name": "Mental Wellness App",
       "description": "A full-stack social media application with real-time chat and posts.",
-      "techStack": ["React", "Node.js", "WebSocket", "MongoDB"],
+      "techStack": ["React", "TailwindCSS", "Javascript"],
       "keyFeatures": [
-        "Fully responsive website",
-        "Animations",
-        "Post sharing, commenting, and liking features to increase user engagement."
+        "User role-based access and permissions",
+        "User authentication and authorization system for secure login and account access.",
+        "Cashier and reception managemen",
+        "Doctor and patient record management",
+        "Separate modules for mini lab, main lab, and x-ray processing",
+        "Test result management and reporting"
       ],
       "images": [
         "p31",
         "p32"
       ],
-      "githubFrontend": "https://github.com/your-frontend-repo",
-      "githubBackend": "https://github.com/your-backend-repo"
+      "githubFrontend": "https://github.com/sewwwandifernando/Mental-Wellness-App",
+      "githubBackend": "https://github.com/sewwwandifernando/Mental-Wellness-App"
     },
     {
       "id": 4,
       "name": "ICU Patient Monitoring System",
       "description": "Vital Watch is a smart ICU patient monitoring system designed to replace traditional paper records with digital monitoring. ",
-      "techStack": ["React", "Redux", "Node.js", "MongoDB"],
+      "techStack": ["React", "Redux", "Bootstrap ", "Node.js", "MySQL", "Sequelize", "ApexCharts"],
       "keyFeatures": [
-        "Drag-and-drop UI for easily organizing tasks and prioritizing them.",
-        "Real-time synchronization across devices to keep all users up to date.",
-        "Task categorization and filtering for better task management."
+        "Real-time vital sign monitoring",
+        "Patient data analysis and insights",
+        "Patient database maintenance",
+        "Role-based access control for secure data handling"
       ],
       "images": [
         "p41",
@@ -74,7 +82,7 @@
       "id": 5,
       "name": "Medisense",
       "description": "A comprehensive web-based management system developed for Medisense Laboratory Pvt Ltd",
-      "techStack": ["React", "Express", "MongoDB", "JWT"],
+      "techStack": ["React", "Express", "Sequelize", "MySQL", "JWT", "Bcrypt"],
       "keyFeatures": [
         "Support for writing blogs in Markdown format for easy content creation.",
         "User authentication and authorization system for secure login and account access.",
@@ -95,11 +103,21 @@
       "id": 6,
       "name": "Inventory Management App",
       "description": "A web-based system developed to streamline event planning and inventory management",
-      "techStack": ["React", "OpenWeather API", "JavaScript"],
+      "techStack": ["React",
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Material UI",
+      "RTK Query",
+      "Tailwind CSS"],
       "keyFeatures": [
-        "Displays current weather conditions for any location using geolocation or search.",
-        "5-day weather forecast for advanced planning.",
-        "Real-time weather updates using data from OpenWeather API."
+        "Inventory tracking and control with notifications for low stock",
+        "Event scheduling and management for various types of events",
+        "User-friendly dashboard for event and inventory overview",
+        "Role-based access for admin and staff",
+        "Real-time status updates for events and resources",
+        "Integration of event calendar and resource management",
+        "Reports generation for event summaries and inventory usage"
       ],
       "images": [
         "p61",
