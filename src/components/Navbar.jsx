@@ -38,7 +38,7 @@ export default function Navbar() {
   }, []);
 
   const handleResumeClick = () => {
-    window.open("https://drive.google.com/file/d/1YRTxUzytWPdfmedjQlljuZ-hDrIxC-TW/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/14ZanMMLN_69NK_ALndvPRpzyQyPzxvhW/view?usp=sharing", "_blank");
   };
 
   return (
