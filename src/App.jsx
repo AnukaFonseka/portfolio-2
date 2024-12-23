@@ -6,6 +6,8 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Work from "./components/Work";
 
+import { Analytics } from '@vercel/analytics/react';
+
 export default function App() {
   return (
     <div className="flex flex-col bg-gray-100 min-h-screen min-w-fit">
@@ -18,6 +20,7 @@ export default function App() {
         <Work />
       </div>
       <Footer />
+      <Analytics />
     </div>
   );
 }
