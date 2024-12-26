@@ -41,15 +41,12 @@
     {
       "id": 3,
       "name": "Mental Wellness App",
-      "description": "A full-stack social media application with real-time chat and posts.",
+      "description": "A responsive web application built using React, designed to promote mental well-being.",
       "techStack": ["React", "TailwindCSS", "Javascript"],
       "keyFeatures": [
-        "User role-based access and permissions",
-        "User authentication and authorization system for secure login and account access.",
-        "Cashier and reception managemen",
-        "Doctor and patient record management",
-        "Separate modules for mini lab, main lab, and x-ray processing",
-        "Test result management and reporting"
+        "Custom UI components for a unique and professional look.",
+        "Optimized for seamless use across desktops, tablets, and mobile devices.",
+        "A clean, intuitive interface to view progress and access features easily."
       ],
       "images": [
         "p31",
@@ -84,9 +81,12 @@
       "description": "A comprehensive web-based management system developed for Medisense Laboratory Pvt Ltd",
       "techStack": ["React", "Express", "Sequelize", "MySQL", "JWT", "Bcrypt"],
       "keyFeatures": [
-        "Support for writing blogs in Markdown format for easy content creation.",
+        "User role-based access and permissions",
         "User authentication and authorization system for secure login and account access.",
-        "Commenting system for users to interact with blog posts."
+        "Cashier and reception managemen",
+        "Doctor and patient record management",
+        "Separate modules for mini lab, main lab, and x-ray processing",
+        "Test result management and reporting"
       ],
       "images": [
         "p51",
