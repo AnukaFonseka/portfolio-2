@@ -23,7 +23,7 @@ const experiences = [
     company: "The Makers Global",
     duration: "Jan 2025 - Present",
     description:
-      "Currently interning as a Software Engineer, contributing to the development of dynamic web applications using Next.js. Actively involved in deploying scalable services on AWS while gaining hands-on experience in building full-stack features, enhancing frontend performance, and integrating backend APIs seamlessly.",
+      "Currently, interning as a Software Engineer, contributing to the development of dynamic web applications using Next.js. Actively involved in deploying scalable services on AWS while gaining hands-on experience in building full-stack features, enhancing frontend performance, and integrating backend APIs seamlessly.",
   },
 
 ];
