@@ -4,28 +4,27 @@ const experiences = [
   {
     id: 1,
     title: "Software Engineer, Intern",
+    company: "The Makers Global",
+    duration: "Jan 2025 - Present",
+    description:
+      "Currently, interning as a Software Engineer, contributing to the development of dynamic web applications using Next.js. Actively involved in deploying scalable services on AWS while gaining hands-on experience in building full-stack features, enhancing frontend performance, and integrating backend APIs seamlessly.",
+  },
+  {
+    id: 2,
+    title: "Software Engineer, Intern",
     company: "Amerck Inc. StratfordAve, Colombo.",
     duration: "Aug 2023 - Oct 2023",
     description:
       "Interned as a Backend Developer. Developed REST APIs using Node.js, Express, and Sequelize. Conducted API testing using Insomnia, ensuring functionality and reliability. Worked within an Agile development environment, utilizing Jira and Confluence for task management and team collaboration."
   },
   {
-    id: 2,
+    id: 3,
     title: "Software Engineer, Intern",
     company: "Escarta Pvt. ltd",
     duration: "May 2022 - Aug 2022",
     description:
       "Interned as a Software Engineer for 3 months, focusing on developing simulation processes for an army tank simulator project using Unity. Gained hands-on experience in Unity software.",
-  },
-  {
-    id: 3,
-    title: "Software Engineer, Intern",
-    company: "The Makers Global",
-    duration: "Jan 2025 - Present",
-    description:
-      "Currently, interning as a Software Engineer, contributing to the development of dynamic web applications using Next.js. Actively involved in deploying scalable services on AWS while gaining hands-on experience in building full-stack features, enhancing frontend performance, and integrating backend APIs seamlessly.",
-  },
-
+  }
 ];
 
 export default function Work() {
