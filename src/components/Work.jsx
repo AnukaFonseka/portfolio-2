@@ -17,6 +17,14 @@ const experiences = [
     description:
       "Interned as a Software Engineer for 3 months, focusing on developing simulation processes for an army tank simulator project using Unity. Gained hands-on experience in Unity software.",
   },
+  {
+    id: 3,
+    title: "Software Engineer, Intern",
+    company: "The Makers Global",
+    duration: "Jan 2025 - Present",
+    description:
+      "Currently interning as a Software Engineer, contributing to the development of dynamic web applications using Next.js. Actively involved in deploying scalable services on AWS while gaining hands-on experience in building full-stack features, enhancing frontend performance, and integrating backend APIs seamlessly.",
+  },
 
 ];
 
